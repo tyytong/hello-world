@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+I'm trying how to create a respository.
+And now it's a new branch.
